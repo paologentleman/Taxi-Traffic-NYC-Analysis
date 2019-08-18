@@ -1,7 +1,3 @@
-# Taxi-Traffic-NYC-Analysis
-
-***
-
 # How do Taxis move in NYC? 
 In this assignment we perform an analysis of Taxis in NYC. In particular, we are curious to answer to some specific *research questions* (__RQs__) that may help Taxi drivers in planning their movements throughout the city and the Taxi's users to have hints about the convenience of enjoying this service.
 
