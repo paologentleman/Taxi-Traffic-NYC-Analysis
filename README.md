@@ -3,7 +3,7 @@ In this assignment we perform an analysis of Taxis in NYC. In particular, we are
 
 For this purpose we use the open data of Taxi's trips in NYC. In order to answer to the *RQs* we take into account the data related to Yellow cab for the year 2018 available [here](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml).
 
-![alt text](http://shekhar.info/images/dropoffs_narrow.jpg "Logo Title Text 1")
+![alt text](http://shekhar.info/images/dropoffs.jpg "Logo Title Text 1")
 
 ____
 
